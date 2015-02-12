@@ -11,7 +11,7 @@ But in times of desperate need...this should reduce some bleeding (mostly when y
 # Usage
 
 ```
-python prepare.py REPOPATH BRANCH'
+python prepare.py REPOPATH BRANCH
 ```
 * `REPOPATH` - Local path to repo
 * `BRANCH` - Branch to transplant changes from
