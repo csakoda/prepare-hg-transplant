@@ -1,6 +1,6 @@
 # Purpose
 
-This script prepares a 'hg transplant' from an existing branch, (optionally) filtering out all the commits that are merges
+This script prepares an `hg transplant` from an existing branch, (optionally) filtering out all the commits that are merges, outputing the `hg` command that should be run
 
 # A Stern Warning
 
